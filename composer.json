@@ -1,0 +1,15 @@
+{
+    "name": "susu/hello",
+    "authors": [
+        {
+            "name": "苏健",
+            "email": "sujian@hoge.cn"
+        }
+    ],
+    "require": {},
+  "autoload": {
+    "psr-4": {
+      "Hello\\": "src/"
+    }
+  }
+}
